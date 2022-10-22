@@ -1,0 +1,27 @@
+.tamanhoLogo {
+    width: 40px;
+}
+
+.logoheader {
+    width: 100px;
+}
+
+.fotoconteudo{
+    width: 400px;
+    height: 250px;
+    align-items: center;
+}
+
+.nav {
+    padding-left: 25px;
+}
+
+.carrocel {
+    width: 700px;
+    margin: auto;
+}
+
+.paragrafoconteudo {
+    text-align: justify;
+    text-indent: 50px;
+}
